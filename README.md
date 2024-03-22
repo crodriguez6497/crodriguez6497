@@ -21,8 +21,8 @@ company: ManTech ,
 current_job: Senior Software and Systems Engineer ,
 education:
   [
-    "Masters of Science in Information Technology Management",
-    "Bachelors of Science in Information Technology",
+    "Master of Science in Information Technology Management",
+    "Bachelor of Science in Information Technology",
     "Microsoft Systems Software Academy"
   ],
 fields_of_interests:
