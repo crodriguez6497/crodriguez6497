@@ -14,25 +14,30 @@
 </div>
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me</h2>
 
-```yaml
-name: Chris Rodriguez ,
-located_in: North Carolina ,
-company: ManTech ,
-current_job: Senior Software and Systems Engineer ,
-education:
-  [
-    "Master of Science in Information Technology Management",
-    "Bachelor of Science in Information Technology",
-    "Microsoft Systems Software Academy"
-  ],
-fields_of_interests:
-  [
+```json
+{
+  "name": "Chris Rodriguez",
+  "located_in": "North Carolina",
+  "company": "ManTech",
+  "current_job": "Senior Software and Systems Engineer",
+  "education": {
+    "in_progress": [
+      "Master of Science in Data Analytics"
+    ],
+    "complete": [
+      "Master of Science in Information Technology Management",
+      "Bachelor of Science in Information Technology",
+      "Microsoft Systems Software Academy"
+    ]
+  },
+  "fields_of_interests": [
     "Full-stack Development",
     "Data Analytics",
     "UI/UX",
     "Machine Learning",
-    "Automation",
-  ],
+    "Automation"
+  ]
+}
 ```
 ---
 ## 🚀 Current Projects
